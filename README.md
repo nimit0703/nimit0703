@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nimit Trevadiya</h1>
-<h3 align="center">A passionate individual who loves building web applications, a developer and Graphic-designer by passion, an engineer by profession. My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.</h3>
+<h3 align="center">Experienced Computer Engineer proficient in Full Stack development utilizing Angular , C#, Java, 
+and Spring Boot, along with expertise in version control using Git and database management with 
+MySQL. Additionally, I am always excited to learn new technologies and accepting every 
+opportunity, adept in Data Structures and Algorithms (DSA) and skilled in effective problemsolving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimit0703&label=Profile%20views&color=0e75b6&style=flat" alt="nimit0703" /> </p>
 
-- 🌱 I’m currently learning **React , Node.js**
+- 🌱 I’m currently learning **Angular , Spring boot**
 
 - 📫 How to reach me **link.nimit@gmail.com**
 
