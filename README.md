@@ -1,5 +1,10 @@
-👋 Hi, I'm Nimit Trevadiya!<br><br>🚀 Software Engineer | Web Development Enthusiast | Vue Js | Angular JS <br><br>🌍 Exploring the world of web development, one line of code at a time. I'm passionate about creating elegant and user-friendly web applications using Angular. When I'm not crafting code, you'll find me tackling algorithmic challenges on LeetCode, constantly striving to sharpen my problem-solving skills.<br><br>🌟 I believe in the power of open-source collaboration and actively contribute to various projects in the tech community. Let's connect and make the web a better place together!<br><br>📫 Reach out to me at link.nimit@gmail.com or connect with me here. I'm always open to new opportunities and collaborations. Let's code, innovate, and build a brighter digital future together! 🌟<br>
+👋 Hi, I'm Nimit Trevadiya! Your friendly neighborhood Software Engineer, weaving magic with **Vue.js**, **Angular**, and **Springboot**. 🚀 Crafting elegant web solutions that dance seamlessly between code and user experience. Let's turn dreams into digital reality, one line of code at a time! ✨
+
+🌍 Exploring the vast landscape of web development, I bring a passion for creating immersive applications. When I'm not untangling code, I'm conquering algorithmic challenges on LeetCode, honing my problem-solving prowess.
+
+🌟 Embracing the spirit of open-source, I contribute to tech projects, believing in the collective power to shape a better web. Let's connect and co-create a digital future that shines bright! 💻✨
+
+📫 Reach out to me at link.nimit@gmail.com or ride the digital waves with me [here](#). Open to exciting opportunities and collaborations. Together, let's code, innovate, and build wonders! 🌟
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimit.trevadiya3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimittrevadiya) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimit.trevadiya3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimittrevadiya)
