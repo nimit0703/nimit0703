@@ -11,6 +11,9 @@
 - **Version Controlling:** Git, GitHub
 - **Other Tools:** Figma, Postman 
 
+<span><img src="images/git.png" alt="Image Alt Text" width="150" height="170" style="margin: 15px;"></span>
+<span><img src="images/ts.png" alt="Image Alt Text" width="150" height="170" style="margin: 15px;"></span>
+
 📫 Reach out to me at link.nimit@gmail.com or ride the digital waves with me [here](#). Open to exciting opportunities and collaborations. Together, let's code, innovate, and build wonders! 🌟
 
 ## 🌐 Socials:
