@@ -5,7 +5,8 @@
 🌟 Embracing the spirit of open-source, I contribute to tech projects, believing in the collective power to shape a better web. Let's connect and co-create a digital future that shines bright! 💻✨
 
 🚀 Skills:
-- **Frontend:** Vue.js, NuxtJs, Angular, Bootstrap, Vue-Bootstrap, TypeScript, Lodash
+- **Frontend:** Vue.js, NuxtJs, Angular, TypeScript, Lodash
+- **Style:** Bootstrap, Vue-Bootstrap, Scss, tailwind css
 - **Backend:** Java, Springboot, JPA, JDBC
 - **Database:** MongoDB, MySQL
 - **Version Controlling:** Git, GitHub
