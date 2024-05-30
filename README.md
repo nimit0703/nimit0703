@@ -4,6 +4,11 @@
 
 🌟 Embracing the spirit of open-source, I contribute to tech projects, believing in the collective power to shape a better web. Let's connect and co-create a digital future that shines bright! 💻✨
 
+Experience:
+
+👷 Springboot Developer (Java) @[AGS health](https://www.agshealth.com/)<br/>
+👷 Software Developer (Vue js) @[Eroam](https://eroam.com/)<br/>
+
 🚀 Skills:
 - **Frontend:** Vue.js, NuxtJs, Angular, TypeScript, Lodash
 - **Style:** Bootstrap, Vue-Bootstrap, Scss, tailwind css
