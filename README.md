@@ -10,19 +10,14 @@ Experience:
 👷 Software Developer (Vue js) @[Eroam](https://eroam.com/)<br/>
 
 🚀 Skills:
-- **Frontend:** Vue.js, NuxtJs, Angular, TypeScript, Lodash
+- **Frontend:** Vue.js(2.x and 3.x), Vuex, Pinia, NuxtJs, React, TypeScript, Lodash
 - **Style:** Bootstrap, Vue-Bootstrap, Scss, tailwind css
-- **Backend:** Java, Springboot, JPA, JDBC
+- **Backend:** Springboot,Node,Express, JPA, JDBC, Websockets, Socker.IO
 - **Database:** MongoDB, MySQL
 - **Version Controlling:** Git, GitHub
-- **Other Tools:** Figma, Postman 
+- **Other Tools:** Figma, Postman , Axios, 
 
-<span><img src="images/vue.png" alt="Vue js" width="150" height="170" style="margin: 15px;"></span>
-<span><img src="images/git.png" alt="Git" width="150" height="170" style="margin: 15px;"></span>
-<span><img src="images/ts.png" alt="Typescript" width="150" height="170" style="margin: 15px;"></span>
-<span><img src="images/mongo.png" alt="Mongodb" width="150" height="170" style="margin: 15px;"></span>
-
-📫 Reach out to me at link.nimit@gmail.com or ride the digital waves with me [here](#). Open to exciting opportunities and collaborations. Together, let's code, innovate, and build wonders! 🌟
+📫 Reach out to me at link.nimit@gmail.com. Open to exciting opportunities and collaborations. Together, let's code, innovate, and build wonders! 🌟
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimit.trevadiya3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimittrevadiya)
