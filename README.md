@@ -10,6 +10,7 @@ Experience:
 👷 Software Developer (Vue js) @[Eroam](https://eroam.com/)<br/>
 
 🚀 Skills:
+- **Data Structures and Algorithms**, **Problem Solving** 
 - **Frontend:** Vue.js(2.x and 3.x), Vuex, Pinia, NuxtJs, React, TypeScript, Lodash
 - **Style:** Bootstrap, Vue-Bootstrap, Scss, tailwind css
 - **Backend:** Springboot,Node,Express, JPA, JDBC, Websockets, Socker.IO
