@@ -7,7 +7,7 @@
 Experience:
 
 👷 Springboot Developer (Java) @[AGS health](https://www.agshealth.com/)<br/>
-👷 Software Developer (Vue js) @[Eroam](https://eroam.com/)<br/>
+👷 Software Developer (Vue js) @[eRoam](https://eroam.com/)<br/>
 
 🚀 Skills:
 - **Data Structures and Algorithms**, **Problem Solving** 
