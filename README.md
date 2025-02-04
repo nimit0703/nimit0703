@@ -16,7 +16,15 @@ Experience:
 - **Backend:** Springboot,Node,Express, JPA, JDBC, Websockets, Socker.IO
 - **Database:** MongoDB, MySQL
 - **Version Controlling:** Git, GitHub
-- **Other Tools:** Figma, Postman , Axios, 
+- **Other Tools:** Figma, Postman , Axios,
+
+<br/>
+<a href="https://github.com/nimit0703">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimit0703&amp;hide=html,css&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=4AB197&amp;bg_color=1A2B34" alt="Chuck's GitHub Language focus">
+</a>
+<br/>
+
+#
 
 📫 Reach out to me at link.nimit@gmail.com. Open to exciting opportunities and collaborations. Together, let's code, innovate, and build wonders! 🌟
 
